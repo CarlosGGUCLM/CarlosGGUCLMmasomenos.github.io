@@ -170,8 +170,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
+    title: Convocatoria 2021 - «Proyectos Pruebas de Concepto»
+    text: Proyecto: Hacia la normalización del ensayo biaxial traccióncompresión para determinar propiedades mecánicas ante estados de cortadura pura en el plano (BISHEAR).
     button: Ver más
     buttonlink: "#servicios"
 
@@ -183,6 +183,8 @@ es: &DEFAULT_ES
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        section: portafolio
+        closebutton: "Cerrar Proyecto"
       - title: "Diseño Responsivo"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
