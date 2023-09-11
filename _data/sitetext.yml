@@ -183,8 +183,6 @@ es: &DEFAULT_ES
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-        section: portafolio
-        closebutton: "Cerrar Proyecto"
       - title: "Diseño Responsivo"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
